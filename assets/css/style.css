@@ -1,0 +1,15 @@
+.user-tag-list {
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #fff;
+}
+
+.user-tag-search {
+    margin-bottom: 5px;
+    width: 230px;
+}
+.postbox {
+    width: 255px;
+}
