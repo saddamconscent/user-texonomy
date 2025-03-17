@@ -1,4 +1,4 @@
-# user-texonomy
+# user-taxonomy
 
 **Manual download & upload from the WordPress Admin Panel:**
 1. Download the desired plugin in a ZIP format.
